@@ -53,7 +53,7 @@ app.get('/info', function(req, res) {
     patientdata = {
       "personal": {
         "name": "Matt Mondics",
-        "age": 38,
+        "age": 40,
         "gender": "male",
         "street": "34 Main Street",
         "city": "Toronto",
